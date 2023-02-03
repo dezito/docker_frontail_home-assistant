@@ -1,5 +1,5 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/dezito/frontail-home-assistant.svg)](https://hub.docker.com/r/dezito/frontail-home-assistant)
-[![Travis_master_branch](https://github.com/dezito/docker_frontail_home-assistant/actions/workflows/build.yml/badge.svg)](https://github.com/dezito/docker_frontail_home-assistant)
+[![Dezito_master_branch](https://github.com/dezito/docker_frontail_home-assistant/actions/workflows/build.yml/badge.svg)](https://github.com/dezito/docker_frontail_home-assistant)
 
 ## openHAB log viewer
 
