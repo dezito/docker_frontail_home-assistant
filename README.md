@@ -1,5 +1,5 @@
-[![Docker Pulls](https://img.shields.io/docker/pulls/welteki/frontail-openhab.svg)](https://hub.docker.com/r/welteki/frontail-openhab)
-[![Travis_master_branch](https://github.com/welteki/docker_frontail_openhab/actions/workflows/build.yml/badge.svg)](https://github.com/welteki/docker_frontail_openhab)
+[![Docker Pulls](https://img.shields.io/docker/pulls/dezito/frontail-home-assistant.svg)](https://hub.docker.com/r/dezito/frontail-home-assistant)
+[![Travis_master_branch](https://github.com/dezito/docker_frontail_home-assistant/actions/workflows/build.yml/badge.svg)](https://github.com/dezito/docker_frontail_home-assistant)
 
 ## openHAB log viewer
 
@@ -15,10 +15,10 @@ If you did set up your openhab container using docker named volumes you can just
 
 ```
 docker run -d \
-  --name frontail-openhab \
+  --name frontail-home-assistant \
   -p 9001:9001 \
   -v openhab_userdata:/openhab/userdata:ro \
-  welteki/frontail-openhab:latest
+  dezito/frontail-home-assistant:latest
 ```
 
 #### Mounting log files from host directory
