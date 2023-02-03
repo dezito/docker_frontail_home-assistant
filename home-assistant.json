@@ -1,9 +1,9 @@
 {
   "words": {
-    "[ERROR]": "color: red;",
-    "[WARN ]": "color: orange;",
-    "[INFO ]": "color: green;",
-    "[DEBUG]": "color: purple;",
+    "ERROR": "color: red;",
+    "WARN": "color: orange;",
+    "INFO": "color: green;",
+    "DEBUG": "color: purple;",
     "Node is DEAD": "color: red;",
     "[GroupItemStateChangedEvent]": "color: #0026FF; font-weight: bold;",
     "[ItemStateChangedEvent     ]": "color: #0026FF;",
@@ -16,9 +16,9 @@
   "lines": {
     "/home-assistant/home-assistant.log": "text-align: right; font-size: 0.8em; border-top: 2px solid #F8F8F8;",
     ".py.": "background-color: #A6CFFD; font-weight: bold;",
-    "[ERROR]": "background-color: #F3BFBF; font-weight: bold;",
-    "[WARN ]": "background-color: #F3D7BF; font-weight: bold;",
-    "[DEBUG]": "background-color: #F3BFF3; font-weight: bold;",
+    "ERROR": "background-color: #F3BFBF; font-weight: bold;",
+    "WARN": "background-color: #F3D7BF; font-weight: bold;",
+    "DEBUG": "background-color: #F3BFF3; font-weight: bold;",
     "model.script": "background-color: #A6CFFD; font-weight: bold;"
   }
 }
